@@ -270,7 +270,7 @@ public class JmsServer {
 
   @JmsListener(destination = "server.q")
   public void receive(String message) {
-    LOGGER.info("received message on jms server queue = '{}'", message);
+    LOGGER.info("[Server.q] received message on jms server queue = '{}'", message);
     latch.countDown();
 
     ServerResponse response = null;

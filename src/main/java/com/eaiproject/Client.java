@@ -63,7 +63,7 @@ public class Client {
 
     @JmsListener(destination = "client.q")
     public void receive(String message) {
-        LOGGER.info("received message='{}'", message);
+        LOGGER.info("[Client.q] received message='{}'", message);
         latch.countDown();
     }
 }
