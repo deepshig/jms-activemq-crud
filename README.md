@@ -35,7 +35,7 @@ Now, everything should be setup.
 * Now, visit, `localhost:8090/save`, this should save a few entries in mongodb. Access mongoshell to check if it was store. DB name would be `test` and collection name `customer`.
 * Visit `localhost:8090/client` to access the client page.
 * Test user data can be generated using the provided [script](./generate_data.py). It generates fake data of [this](./customer_data.csv) format. This data can be fed into mongo db using the command `mongoimport --type csv -d test -c faker --headerline customer_data.csv`.
-* Now, we can use the different APIs exposed by [Server](./src/main/java/com/jmscrudapp/SpringJmsApplication.Java) to
+* Now, we can use the different APIs exposed by [Server](./src/main/java/com/jmscrudapp/SpringJmsApplication.java) to
     * `fetch`, `login`, `logout`, `authenticate` user via REST HTTP
     * `fetch`, `login`, `logout`, `authenticate` user via JMS
     * `fetch`, `login`, `logout`, `authenticate` user via JMS client application simulation.
