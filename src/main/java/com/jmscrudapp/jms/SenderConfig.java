@@ -1,4 +1,4 @@
-package com.eaiproject.jms;
+package com.jmscrudapp.jms;
 
 import org.apache.activemq.ActiveMQConnectionFactory;
 import org.springframework.beans.factory.annotation.Value;

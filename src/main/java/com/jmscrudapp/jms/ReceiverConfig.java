@@ -1,7 +1,7 @@
-package com.eaiproject.jms;
+package com.jmscruddapp.jms;
 
-import com.eaiproject.Client;
-import com.eaiproject.JmsServer;
+import com.jmscruddapp.Client;
+import com.jmscruddapp.JmsServer;
 
 import org.apache.activemq.ActiveMQConnectionFactory;
 import org.springframework.beans.factory.annotation.Value;

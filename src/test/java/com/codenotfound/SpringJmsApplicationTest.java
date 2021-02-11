@@ -1,7 +1,7 @@
 package com.jmscrudapp;
 
-//import com.eaiproject.jms.Receiver;
-//import com.eaiproject.jms.Sender;
+//import com.jmscrudapp.jms.Receiver;
+//import com.jmscrudapp.jms.Sender;
 //import org.junit.Test;
 //import org.junit.runner.RunWith;
 //import org.springframework.beans.factory.annotation.Autowired;

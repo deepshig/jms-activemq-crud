@@ -4,13 +4,13 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.eaiproject</groupId>
-  <artifactId>spring-jms-activemq-hello-world</artifactId>
+  <groupId>com.jmscrudapp</groupId>
+  <artifactId>jms-activemq-crud</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 
-  <name>spring-jms-activemq-hello-world</name>
-  <description>Spring JMS ActiveMQ Example</description>
-  <url>https://eaiproject.com/spring-jms-activemq-example.html</url>
+  <name>jms-activemq-crud</name>
+  <description>JMS ActiveMQ CRUD ApplicationExample</description>
+  <url>https://jmscrudapp.com/jms-activemq-crud.html</url>
 
   <parent>
     <groupId>org.springframework.boot</groupId>

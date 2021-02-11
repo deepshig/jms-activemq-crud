@@ -1,4 +1,4 @@
-package com.eaiproject.jms;
+package com.jmscruddapp.jms;
 
 import java.util.concurrent.CountDownLatch;
 import org.slf4j.Logger;
