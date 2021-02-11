@@ -1,4 +1,4 @@
-package com.eaiproject.routes;
+package com.jmscrudapp.routes;
 
 import org.apache.camel.builder.RouteBuilder;
 import org.springframework.stereotype.Component;

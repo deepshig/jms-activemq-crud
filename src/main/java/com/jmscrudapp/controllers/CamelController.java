@@ -1,4 +1,4 @@
-package com.eaiproject.controllers;
+package com.jmscrudapp.controllers;
 
 import org.apache.camel.CamelContext;
 import org.apache.camel.ProducerTemplate;

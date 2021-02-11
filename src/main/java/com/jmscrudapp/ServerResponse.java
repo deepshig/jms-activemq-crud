@@ -1,4 +1,4 @@
-package com.eaiproject;
+package com.jmscrudapp;
 
 import org.eclipse.persistence.jaxb.MarshallerProperties;
 

@@ -1,4 +1,4 @@
-package com.eaiproject;
+package com.jmscrudapp;
 
 //import com.eaiproject.jms.Receiver;
 //import com.eaiproject.jms.Sender;

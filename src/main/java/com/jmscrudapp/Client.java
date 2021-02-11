@@ -1,6 +1,6 @@
-package com.eaiproject;
+package com.jmscrudapp;
 
-import com.eaiproject.jms.Sender;
+import com.jmscrudapp.jms.Sender;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;

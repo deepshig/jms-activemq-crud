@@ -1,4 +1,4 @@
-package com.eaiproject;
+package com.jmscrudapp;
 
 import java.util.List;
 
